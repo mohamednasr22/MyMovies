@@ -1,0 +1,296 @@
+E:\projects\aspdotnet\Vidly\Vidly\bin\roslyn\csc.exe
+E:\projects\aspdotnet\Vidly\Vidly\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\projects\aspdotnet\Vidly\Vidly\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\projects\aspdotnet\Vidly\Vidly\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\projects\aspdotnet\Vidly\Vidly\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\projects\aspdotnet\Vidly\Vidly\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\projects\aspdotnet\Vidly\Vidly\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\projects\aspdotnet\Vidly\Vidly\bin\roslyn\System.Collections.Immutable.dll
+E:\projects\aspdotnet\Vidly\Vidly\bin\roslyn\System.Reflection.Metadata.dll
+E:\projects\aspdotnet\Vidly\Vidly\bin\roslyn\vbc.exe
+E:\projects\aspdotnet\Vidly\Vidly\bin\roslyn\VBCSCompiler.exe
+E:\projects\aspdotnet\Vidly\Vidly\bin\roslyn\VBCSCompiler.exe.config
+E:\projects\aspdotnet\Vidly\Vidly\bin\Vidly.dll.config
+E:\projects\aspdotnet\Vidly\Vidly\bin\Vidly.dll
+E:\projects\aspdotnet\Vidly\Vidly\bin\Vidly.pdb
+E:\projects\aspdotnet\Vidly\Vidly\bin\Antlr3.Runtime.dll
+E:\projects\aspdotnet\Vidly\Vidly\bin\EntityFramework.dll
+E:\projects\aspdotnet\Vidly\Vidly\bin\EntityFramework.SqlServer.dll
+E:\projects\aspdotnet\Vidly\Vidly\bin\Microsoft.AspNet.Identity.Core.dll
+E:\projects\aspdotnet\Vidly\Vidly\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\projects\aspdotnet\Vidly\Vidly\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\projects\aspdotnet\Vidly\Vidly\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\projects\aspdotnet\Vidly\Vidly\bin\Microsoft.Owin.dll
+E:\projects\aspdotnet\Vidly\Vidly\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\projects\aspdotnet\Vidly\Vidly\bin\Microsoft.Owin.Security.Cookies.dll
+E:\projects\aspdotnet\Vidly\Vidly\bin\Microsoft.Owin.Security.dll
+E:\projects\aspdotnet\Vidly\Vidly\bin\Microsoft.Owin.Security.Facebook.dll
+E:\projects\aspdotnet\Vidly\Vidly\bin\Microsoft.Owin.Security.Google.dll
+E:\projects\aspdotnet\Vidly\Vidly\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\projects\aspdotnet\Vidly\Vidly\bin\Microsoft.Owin.Security.OAuth.dll
+E:\projects\aspdotnet\Vidly\Vidly\bin\Microsoft.Owin.Security.Twitter.dll
+E:\projects\aspdotnet\Vidly\Vidly\bin\Microsoft.Web.Infrastructure.dll
+E:\projects\aspdotnet\Vidly\Vidly\bin\Newtonsoft.Json.dll
+E:\projects\aspdotnet\Vidly\Vidly\bin\Owin.dll
+E:\projects\aspdotnet\Vidly\Vidly\bin\System.Web.Helpers.dll
+E:\projects\aspdotnet\Vidly\Vidly\bin\System.Web.Mvc.dll
+E:\projects\aspdotnet\Vidly\Vidly\bin\System.Web.Optimization.dll
+E:\projects\aspdotnet\Vidly\Vidly\bin\System.Web.Razor.dll
+E:\projects\aspdotnet\Vidly\Vidly\bin\System.Web.WebPages.Deployment.dll
+E:\projects\aspdotnet\Vidly\Vidly\bin\System.Web.WebPages.dll
+E:\projects\aspdotnet\Vidly\Vidly\bin\System.Web.WebPages.Razor.dll
+E:\projects\aspdotnet\Vidly\Vidly\bin\WebGrease.dll
+E:\projects\aspdotnet\Vidly\Vidly\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\projects\aspdotnet\Vidly\Vidly\bin\System.Web.Helpers.xml
+E:\projects\aspdotnet\Vidly\Vidly\bin\System.Web.Mvc.xml
+E:\projects\aspdotnet\Vidly\Vidly\bin\System.Web.Optimization.xml
+E:\projects\aspdotnet\Vidly\Vidly\bin\System.Web.Razor.xml
+E:\projects\aspdotnet\Vidly\Vidly\bin\System.Web.WebPages.xml
+E:\projects\aspdotnet\Vidly\Vidly\bin\System.Web.WebPages.Deployment.xml
+E:\projects\aspdotnet\Vidly\Vidly\bin\System.Web.WebPages.Razor.xml
+E:\projects\aspdotnet\Vidly\Vidly\bin\Antlr3.Runtime.pdb
+E:\projects\aspdotnet\Vidly\Vidly\bin\Newtonsoft.Json.xml
+E:\projects\aspdotnet\Vidly\Vidly\bin\EntityFramework.xml
+E:\projects\aspdotnet\Vidly\Vidly\bin\EntityFramework.SqlServer.xml
+E:\projects\aspdotnet\Vidly\Vidly\bin\Microsoft.AspNet.Identity.Core.xml
+E:\projects\aspdotnet\Vidly\Vidly\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\projects\aspdotnet\Vidly\Vidly\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\projects\aspdotnet\Vidly\Vidly\bin\Microsoft.Owin.xml
+E:\projects\aspdotnet\Vidly\Vidly\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\projects\aspdotnet\Vidly\Vidly\bin\Microsoft.Owin.Security.xml
+E:\projects\aspdotnet\Vidly\Vidly\bin\Microsoft.Owin.Security.Facebook.xml
+E:\projects\aspdotnet\Vidly\Vidly\bin\Microsoft.Owin.Security.Cookies.xml
+E:\projects\aspdotnet\Vidly\Vidly\bin\Microsoft.Owin.Security.OAuth.xml
+E:\projects\aspdotnet\Vidly\Vidly\bin\Microsoft.Owin.Security.Google.xml
+E:\projects\aspdotnet\Vidly\Vidly\bin\Microsoft.Owin.Security.Twitter.xml
+E:\projects\aspdotnet\Vidly\Vidly\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\projects\aspdotnet\Vidly\Vidly\obj\Debug\Vidly.csprojResolveAssemblyReference.cache
+E:\projects\aspdotnet\Vidly\Vidly\obj\Debug\Vidly.dll
+E:\projects\aspdotnet\Vidly\Vidly\obj\Debug\Vidly.pdb
+E:\projects\aspdotnet\Vidly\Vidly\obj\Debug\Vidly.Migrations.InitialModel.resources
+E:\projects\aspdotnet\Vidly\Vidly\obj\Debug\Vidly.csproj.GenerateResource.Cache
+E:\projects\aspdotnet\Vidly\Vidly\obj\Debug\Vidly.Migrations.addSubscribCustomers.resources
+E:\projects\aspdotnet\Vidly\Vidly\obj\Debug\Vidly.Migrations.addMembershiptype.resources
+E:\projects\aspdotnet\Vidly\Vidly\obj\Debug\Vidly.Migrations.PopilateMembershipTypes.resources
+E:\projects\aspdotnet\Vidly\Vidly\obj\Debug\Vidly.Migrations.AppleAnnotationsToCustomerName.resources
+E:\projects\aspdotnet\Vidly\Vidly\obj\Debug\Vidly.Migrations.addNameMemberType.resources
+E:\projects\aspdotnet\Vidly\Vidly\obj\Debug\Vidly.Migrations.addBrthDay.resources
+E:\projects\aspdotnet\Vidly\Vidly\obj\Debug\Vidly.Migrations.InitialModel1.resources
+E:\projects\aspdotnet\Vidly\Vidly\obj\Debug\Vidly.Migrations.addTypeMovie.resources
+E:\projects\aspdotnet\Vidly\Vidly\obj\Debug\Vidly.Migrations.romove.resources
+E:\projects\aspdotnet\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddReqiredName.resources
+E:\projects\aspdotnet\Vidly\Vidly\obj\Debug\Vidly.Migrations.Brithe.resources
+E:\projects\aspdotnet\Vidly\Vidly\bin\System.Net.Http.Formatting.dll
+E:\projects\aspdotnet\Vidly\Vidly\bin\System.Web.Http.dll
+E:\projects\aspdotnet\Vidly\Vidly\bin\System.Web.Http.WebHost.dll
+E:\projects\aspdotnet\Vidly\Vidly\bin\System.Net.Http.Formatting.xml
+E:\projects\aspdotnet\Vidly\Vidly\bin\System.Web.Http.xml
+E:\projects\aspdotnet\Vidly\Vidly\bin\System.Web.Http.WebHost.xml
+E:\projects\aspdotnet\Vidly\Vidly\bin\AutoMapper.dll
+E:\projects\aspdotnet\Vidly\Vidly\bin\AutoMapper.xml
+E:\projects\aspdotnet\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddingdrivingLincestoApplcationUser.resources
+E:\projects\aspdotnet\Vidly\Vidly\bin\Glimpse.Ado.dll
+E:\projects\aspdotnet\Vidly\Vidly\bin\Glimpse.AspNet.dll
+E:\projects\aspdotnet\Vidly\Vidly\bin\Glimpse.Core.dll
+E:\projects\aspdotnet\Vidly\Vidly\bin\Glimpse.EF6.dll
+E:\projects\aspdotnet\Vidly\Vidly\bin\Glimpse.Mvc5.dll
+E:\projects\aspdotnet\Vidly\Vidly\obj\Debug\Vidly.Migrations.addRantel.resources
+E:\projects\aspdotnet\Vidly\Vidly\obj\Debug\Vidly.Migrations.addAvailble.resources
+E:\projects\aspdotnet\backup\Vidly\Vidly\bin\roslyn\csc.exe
+E:\projects\aspdotnet\backup\Vidly\Vidly\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\projects\aspdotnet\backup\Vidly\Vidly\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\projects\aspdotnet\backup\Vidly\Vidly\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\projects\aspdotnet\backup\Vidly\Vidly\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\projects\aspdotnet\backup\Vidly\Vidly\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\projects\aspdotnet\backup\Vidly\Vidly\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\projects\aspdotnet\backup\Vidly\Vidly\bin\roslyn\System.Collections.Immutable.dll
+E:\projects\aspdotnet\backup\Vidly\Vidly\bin\roslyn\System.Reflection.Metadata.dll
+E:\projects\aspdotnet\backup\Vidly\Vidly\bin\roslyn\vbc.exe
+E:\projects\aspdotnet\backup\Vidly\Vidly\bin\roslyn\VBCSCompiler.exe
+E:\projects\aspdotnet\backup\Vidly\Vidly\bin\roslyn\VBCSCompiler.exe.config
+E:\projects\aspdotnet\backup\Vidly\Vidly\bin\Vidly.dll.config
+E:\projects\aspdotnet\backup\Vidly\Vidly\bin\Vidly.dll
+E:\projects\aspdotnet\backup\Vidly\Vidly\bin\Vidly.pdb
+E:\projects\aspdotnet\backup\Vidly\Vidly\bin\Antlr3.Runtime.dll
+E:\projects\aspdotnet\backup\Vidly\Vidly\bin\AutoMapper.dll
+E:\projects\aspdotnet\backup\Vidly\Vidly\bin\EntityFramework.dll
+E:\projects\aspdotnet\backup\Vidly\Vidly\bin\EntityFramework.SqlServer.dll
+E:\projects\aspdotnet\backup\Vidly\Vidly\bin\Glimpse.Ado.dll
+E:\projects\aspdotnet\backup\Vidly\Vidly\bin\Glimpse.AspNet.dll
+E:\projects\aspdotnet\backup\Vidly\Vidly\bin\Glimpse.Core.dll
+E:\projects\aspdotnet\backup\Vidly\Vidly\bin\Glimpse.EF6.dll
+E:\projects\aspdotnet\backup\Vidly\Vidly\bin\Glimpse.Mvc5.dll
+E:\projects\aspdotnet\backup\Vidly\Vidly\bin\Microsoft.AspNet.Identity.Core.dll
+E:\projects\aspdotnet\backup\Vidly\Vidly\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\projects\aspdotnet\backup\Vidly\Vidly\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\projects\aspdotnet\backup\Vidly\Vidly\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\projects\aspdotnet\backup\Vidly\Vidly\bin\Microsoft.Owin.dll
+E:\projects\aspdotnet\backup\Vidly\Vidly\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\projects\aspdotnet\backup\Vidly\Vidly\bin\Microsoft.Owin.Security.Cookies.dll
+E:\projects\aspdotnet\backup\Vidly\Vidly\bin\Microsoft.Owin.Security.dll
+E:\projects\aspdotnet\backup\Vidly\Vidly\bin\Microsoft.Owin.Security.Facebook.dll
+E:\projects\aspdotnet\backup\Vidly\Vidly\bin\Microsoft.Owin.Security.Google.dll
+E:\projects\aspdotnet\backup\Vidly\Vidly\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\projects\aspdotnet\backup\Vidly\Vidly\bin\Microsoft.Owin.Security.OAuth.dll
+E:\projects\aspdotnet\backup\Vidly\Vidly\bin\Microsoft.Owin.Security.Twitter.dll
+E:\projects\aspdotnet\backup\Vidly\Vidly\bin\Microsoft.Web.Infrastructure.dll
+E:\projects\aspdotnet\backup\Vidly\Vidly\bin\Newtonsoft.Json.dll
+E:\projects\aspdotnet\backup\Vidly\Vidly\bin\Owin.dll
+E:\projects\aspdotnet\backup\Vidly\Vidly\bin\System.Net.Http.Formatting.dll
+E:\projects\aspdotnet\backup\Vidly\Vidly\bin\System.Web.Helpers.dll
+E:\projects\aspdotnet\backup\Vidly\Vidly\bin\System.Web.Http.dll
+E:\projects\aspdotnet\backup\Vidly\Vidly\bin\System.Web.Http.WebHost.dll
+E:\projects\aspdotnet\backup\Vidly\Vidly\bin\System.Web.Mvc.dll
+E:\projects\aspdotnet\backup\Vidly\Vidly\bin\System.Web.Optimization.dll
+E:\projects\aspdotnet\backup\Vidly\Vidly\bin\System.Web.Razor.dll
+E:\projects\aspdotnet\backup\Vidly\Vidly\bin\System.Web.WebPages.Deployment.dll
+E:\projects\aspdotnet\backup\Vidly\Vidly\bin\System.Web.WebPages.dll
+E:\projects\aspdotnet\backup\Vidly\Vidly\bin\System.Web.WebPages.Razor.dll
+E:\projects\aspdotnet\backup\Vidly\Vidly\bin\WebGrease.dll
+E:\projects\aspdotnet\backup\Vidly\Vidly\bin\AutoMapper.xml
+E:\projects\aspdotnet\backup\Vidly\Vidly\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\projects\aspdotnet\backup\Vidly\Vidly\bin\System.Net.Http.Formatting.xml
+E:\projects\aspdotnet\backup\Vidly\Vidly\bin\System.Web.Http.xml
+E:\projects\aspdotnet\backup\Vidly\Vidly\bin\System.Web.Http.WebHost.xml
+E:\projects\aspdotnet\backup\Vidly\Vidly\bin\System.Web.Helpers.xml
+E:\projects\aspdotnet\backup\Vidly\Vidly\bin\System.Web.Mvc.xml
+E:\projects\aspdotnet\backup\Vidly\Vidly\bin\System.Web.Optimization.xml
+E:\projects\aspdotnet\backup\Vidly\Vidly\bin\System.Web.Razor.xml
+E:\projects\aspdotnet\backup\Vidly\Vidly\bin\System.Web.WebPages.xml
+E:\projects\aspdotnet\backup\Vidly\Vidly\bin\System.Web.WebPages.Deployment.xml
+E:\projects\aspdotnet\backup\Vidly\Vidly\bin\System.Web.WebPages.Razor.xml
+E:\projects\aspdotnet\backup\Vidly\Vidly\bin\Antlr3.Runtime.pdb
+E:\projects\aspdotnet\backup\Vidly\Vidly\bin\Newtonsoft.Json.xml
+E:\projects\aspdotnet\backup\Vidly\Vidly\bin\EntityFramework.xml
+E:\projects\aspdotnet\backup\Vidly\Vidly\bin\EntityFramework.SqlServer.xml
+E:\projects\aspdotnet\backup\Vidly\Vidly\bin\Microsoft.AspNet.Identity.Core.xml
+E:\projects\aspdotnet\backup\Vidly\Vidly\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\projects\aspdotnet\backup\Vidly\Vidly\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\projects\aspdotnet\backup\Vidly\Vidly\bin\Microsoft.Owin.xml
+E:\projects\aspdotnet\backup\Vidly\Vidly\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\projects\aspdotnet\backup\Vidly\Vidly\bin\Microsoft.Owin.Security.xml
+E:\projects\aspdotnet\backup\Vidly\Vidly\bin\Microsoft.Owin.Security.Facebook.xml
+E:\projects\aspdotnet\backup\Vidly\Vidly\bin\Microsoft.Owin.Security.Cookies.xml
+E:\projects\aspdotnet\backup\Vidly\Vidly\bin\Microsoft.Owin.Security.OAuth.xml
+E:\projects\aspdotnet\backup\Vidly\Vidly\bin\Microsoft.Owin.Security.Google.xml
+E:\projects\aspdotnet\backup\Vidly\Vidly\bin\Microsoft.Owin.Security.Twitter.xml
+E:\projects\aspdotnet\backup\Vidly\Vidly\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\projects\aspdotnet\backup\Vidly\Vidly\obj\Debug\Vidly.csprojResolveAssemblyReference.cache
+E:\projects\aspdotnet\backup\Vidly\Vidly\obj\Debug\Vidly.Migrations.InitialModel.resources
+E:\projects\aspdotnet\backup\Vidly\Vidly\obj\Debug\Vidly.Migrations.addSubscribCustomers.resources
+E:\projects\aspdotnet\backup\Vidly\Vidly\obj\Debug\Vidly.Migrations.addMembershiptype.resources
+E:\projects\aspdotnet\backup\Vidly\Vidly\obj\Debug\Vidly.Migrations.PopilateMembershipTypes.resources
+E:\projects\aspdotnet\backup\Vidly\Vidly\obj\Debug\Vidly.Migrations.AppleAnnotationsToCustomerName.resources
+E:\projects\aspdotnet\backup\Vidly\Vidly\obj\Debug\Vidly.Migrations.addNameMemberType.resources
+E:\projects\aspdotnet\backup\Vidly\Vidly\obj\Debug\Vidly.Migrations.addBrthDay.resources
+E:\projects\aspdotnet\backup\Vidly\Vidly\obj\Debug\Vidly.Migrations.InitialModel1.resources
+E:\projects\aspdotnet\backup\Vidly\Vidly\obj\Debug\Vidly.Migrations.addTypeMovie.resources
+E:\projects\aspdotnet\backup\Vidly\Vidly\obj\Debug\Vidly.Migrations.romove.resources
+E:\projects\aspdotnet\backup\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddReqiredName.resources
+E:\projects\aspdotnet\backup\Vidly\Vidly\obj\Debug\Vidly.Migrations.Brithe.resources
+E:\projects\aspdotnet\backup\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddingdrivingLincestoApplcationUser.resources
+E:\projects\aspdotnet\backup\Vidly\Vidly\obj\Debug\Vidly.Migrations.addRantel.resources
+E:\projects\aspdotnet\backup\Vidly\Vidly\obj\Debug\Vidly.Migrations.addAvailble.resources
+E:\projects\aspdotnet\backup\Vidly\Vidly\obj\Debug\Vidly.csproj.GenerateResource.Cache
+E:\projects\aspdotnet\backup\Vidly\Vidly\obj\Debug\Vidly.dll
+E:\projects\aspdotnet\backup\Vidly\Vidly\obj\Debug\Vidly.pdb
+F:\desktob 25-2-2020\work\dotNetCore\backup\Vidly\Vidly\bin\roslyn\csc.exe
+F:\desktob 25-2-2020\work\dotNetCore\backup\Vidly\Vidly\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\desktob 25-2-2020\work\dotNetCore\backup\Vidly\Vidly\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\desktob 25-2-2020\work\dotNetCore\backup\Vidly\Vidly\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\desktob 25-2-2020\work\dotNetCore\backup\Vidly\Vidly\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\desktob 25-2-2020\work\dotNetCore\backup\Vidly\Vidly\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\desktob 25-2-2020\work\dotNetCore\backup\Vidly\Vidly\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\desktob 25-2-2020\work\dotNetCore\backup\Vidly\Vidly\bin\roslyn\System.Collections.Immutable.dll
+F:\desktob 25-2-2020\work\dotNetCore\backup\Vidly\Vidly\bin\roslyn\System.Reflection.Metadata.dll
+F:\desktob 25-2-2020\work\dotNetCore\backup\Vidly\Vidly\bin\roslyn\vbc.exe
+F:\desktob 25-2-2020\work\dotNetCore\backup\Vidly\Vidly\bin\roslyn\VBCSCompiler.exe
+F:\desktob 25-2-2020\work\dotNetCore\backup\Vidly\Vidly\bin\roslyn\VBCSCompiler.exe.config
+F:\desktob 25-2-2020\work\dotNetCore\backup\Vidly\Vidly\bin\Vidly.dll.config
+F:\desktob 25-2-2020\work\dotNetCore\backup\Vidly\Vidly\bin\Vidly.dll
+F:\desktob 25-2-2020\work\dotNetCore\backup\Vidly\Vidly\bin\Vidly.pdb
+F:\desktob 25-2-2020\work\dotNetCore\backup\Vidly\Vidly\bin\Antlr3.Runtime.dll
+F:\desktob 25-2-2020\work\dotNetCore\backup\Vidly\Vidly\bin\AutoMapper.dll
+F:\desktob 25-2-2020\work\dotNetCore\backup\Vidly\Vidly\bin\EntityFramework.dll
+F:\desktob 25-2-2020\work\dotNetCore\backup\Vidly\Vidly\bin\EntityFramework.SqlServer.dll
+F:\desktob 25-2-2020\work\dotNetCore\backup\Vidly\Vidly\bin\Glimpse.Ado.dll
+F:\desktob 25-2-2020\work\dotNetCore\backup\Vidly\Vidly\bin\Glimpse.AspNet.dll
+F:\desktob 25-2-2020\work\dotNetCore\backup\Vidly\Vidly\bin\Glimpse.Core.dll
+F:\desktob 25-2-2020\work\dotNetCore\backup\Vidly\Vidly\bin\Glimpse.EF6.dll
+F:\desktob 25-2-2020\work\dotNetCore\backup\Vidly\Vidly\bin\Glimpse.Mvc5.dll
+F:\desktob 25-2-2020\work\dotNetCore\backup\Vidly\Vidly\bin\Microsoft.AspNet.Identity.Core.dll
+F:\desktob 25-2-2020\work\dotNetCore\backup\Vidly\Vidly\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\desktob 25-2-2020\work\dotNetCore\backup\Vidly\Vidly\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\desktob 25-2-2020\work\dotNetCore\backup\Vidly\Vidly\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\desktob 25-2-2020\work\dotNetCore\backup\Vidly\Vidly\bin\Microsoft.Owin.dll
+F:\desktob 25-2-2020\work\dotNetCore\backup\Vidly\Vidly\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\desktob 25-2-2020\work\dotNetCore\backup\Vidly\Vidly\bin\Microsoft.Owin.Security.Cookies.dll
+F:\desktob 25-2-2020\work\dotNetCore\backup\Vidly\Vidly\bin\Microsoft.Owin.Security.dll
+F:\desktob 25-2-2020\work\dotNetCore\backup\Vidly\Vidly\bin\Microsoft.Owin.Security.Facebook.dll
+F:\desktob 25-2-2020\work\dotNetCore\backup\Vidly\Vidly\bin\Microsoft.Owin.Security.Google.dll
+F:\desktob 25-2-2020\work\dotNetCore\backup\Vidly\Vidly\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\desktob 25-2-2020\work\dotNetCore\backup\Vidly\Vidly\bin\Microsoft.Owin.Security.OAuth.dll
+F:\desktob 25-2-2020\work\dotNetCore\backup\Vidly\Vidly\bin\Microsoft.Owin.Security.Twitter.dll
+F:\desktob 25-2-2020\work\dotNetCore\backup\Vidly\Vidly\bin\Microsoft.Web.Infrastructure.dll
+F:\desktob 25-2-2020\work\dotNetCore\backup\Vidly\Vidly\bin\Newtonsoft.Json.dll
+F:\desktob 25-2-2020\work\dotNetCore\backup\Vidly\Vidly\bin\Owin.dll
+F:\desktob 25-2-2020\work\dotNetCore\backup\Vidly\Vidly\bin\System.Net.Http.Formatting.dll
+F:\desktob 25-2-2020\work\dotNetCore\backup\Vidly\Vidly\bin\System.Web.Helpers.dll
+F:\desktob 25-2-2020\work\dotNetCore\backup\Vidly\Vidly\bin\System.Web.Http.dll
+F:\desktob 25-2-2020\work\dotNetCore\backup\Vidly\Vidly\bin\System.Web.Http.WebHost.dll
+F:\desktob 25-2-2020\work\dotNetCore\backup\Vidly\Vidly\bin\System.Web.Mvc.dll
+F:\desktob 25-2-2020\work\dotNetCore\backup\Vidly\Vidly\bin\System.Web.Optimization.dll
+F:\desktob 25-2-2020\work\dotNetCore\backup\Vidly\Vidly\bin\System.Web.Razor.dll
+F:\desktob 25-2-2020\work\dotNetCore\backup\Vidly\Vidly\bin\System.Web.WebPages.Deployment.dll
+F:\desktob 25-2-2020\work\dotNetCore\backup\Vidly\Vidly\bin\System.Web.WebPages.dll
+F:\desktob 25-2-2020\work\dotNetCore\backup\Vidly\Vidly\bin\System.Web.WebPages.Razor.dll
+F:\desktob 25-2-2020\work\dotNetCore\backup\Vidly\Vidly\bin\WebGrease.dll
+F:\desktob 25-2-2020\work\dotNetCore\backup\Vidly\Vidly\bin\AutoMapper.xml
+F:\desktob 25-2-2020\work\dotNetCore\backup\Vidly\Vidly\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\desktob 25-2-2020\work\dotNetCore\backup\Vidly\Vidly\bin\System.Net.Http.Formatting.xml
+F:\desktob 25-2-2020\work\dotNetCore\backup\Vidly\Vidly\bin\System.Web.Http.xml
+F:\desktob 25-2-2020\work\dotNetCore\backup\Vidly\Vidly\bin\System.Web.Http.WebHost.xml
+F:\desktob 25-2-2020\work\dotNetCore\backup\Vidly\Vidly\bin\System.Web.Helpers.xml
+F:\desktob 25-2-2020\work\dotNetCore\backup\Vidly\Vidly\bin\System.Web.Mvc.xml
+F:\desktob 25-2-2020\work\dotNetCore\backup\Vidly\Vidly\bin\System.Web.Optimization.xml
+F:\desktob 25-2-2020\work\dotNetCore\backup\Vidly\Vidly\bin\System.Web.Razor.xml
+F:\desktob 25-2-2020\work\dotNetCore\backup\Vidly\Vidly\bin\System.Web.WebPages.xml
+F:\desktob 25-2-2020\work\dotNetCore\backup\Vidly\Vidly\bin\System.Web.WebPages.Deployment.xml
+F:\desktob 25-2-2020\work\dotNetCore\backup\Vidly\Vidly\bin\System.Web.WebPages.Razor.xml
+F:\desktob 25-2-2020\work\dotNetCore\backup\Vidly\Vidly\bin\Antlr3.Runtime.pdb
+F:\desktob 25-2-2020\work\dotNetCore\backup\Vidly\Vidly\bin\Newtonsoft.Json.xml
+F:\desktob 25-2-2020\work\dotNetCore\backup\Vidly\Vidly\bin\EntityFramework.xml
+F:\desktob 25-2-2020\work\dotNetCore\backup\Vidly\Vidly\bin\EntityFramework.SqlServer.xml
+F:\desktob 25-2-2020\work\dotNetCore\backup\Vidly\Vidly\bin\Microsoft.AspNet.Identity.Core.xml
+F:\desktob 25-2-2020\work\dotNetCore\backup\Vidly\Vidly\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\desktob 25-2-2020\work\dotNetCore\backup\Vidly\Vidly\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\desktob 25-2-2020\work\dotNetCore\backup\Vidly\Vidly\bin\Microsoft.Owin.xml
+F:\desktob 25-2-2020\work\dotNetCore\backup\Vidly\Vidly\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\desktob 25-2-2020\work\dotNetCore\backup\Vidly\Vidly\bin\Microsoft.Owin.Security.xml
+F:\desktob 25-2-2020\work\dotNetCore\backup\Vidly\Vidly\bin\Microsoft.Owin.Security.Facebook.xml
+F:\desktob 25-2-2020\work\dotNetCore\backup\Vidly\Vidly\bin\Microsoft.Owin.Security.Cookies.xml
+F:\desktob 25-2-2020\work\dotNetCore\backup\Vidly\Vidly\bin\Microsoft.Owin.Security.OAuth.xml
+F:\desktob 25-2-2020\work\dotNetCore\backup\Vidly\Vidly\bin\Microsoft.Owin.Security.Google.xml
+F:\desktob 25-2-2020\work\dotNetCore\backup\Vidly\Vidly\bin\Microsoft.Owin.Security.Twitter.xml
+F:\desktob 25-2-2020\work\dotNetCore\backup\Vidly\Vidly\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\desktob 25-2-2020\work\dotNetCore\backup\Vidly\Vidly\obj\Debug\Vidly.csproj.AssemblyReference.cache
+F:\desktob 25-2-2020\work\dotNetCore\backup\Vidly\Vidly\obj\Debug\Vidly.Migrations.InitialModel.resources
+F:\desktob 25-2-2020\work\dotNetCore\backup\Vidly\Vidly\obj\Debug\Vidly.Migrations.addSubscribCustomers.resources
+F:\desktob 25-2-2020\work\dotNetCore\backup\Vidly\Vidly\obj\Debug\Vidly.Migrations.addMembershiptype.resources
+F:\desktob 25-2-2020\work\dotNetCore\backup\Vidly\Vidly\obj\Debug\Vidly.Migrations.PopilateMembershipTypes.resources
+F:\desktob 25-2-2020\work\dotNetCore\backup\Vidly\Vidly\obj\Debug\Vidly.Migrations.AppleAnnotationsToCustomerName.resources
+F:\desktob 25-2-2020\work\dotNetCore\backup\Vidly\Vidly\obj\Debug\Vidly.Migrations.addNameMemberType.resources
+F:\desktob 25-2-2020\work\dotNetCore\backup\Vidly\Vidly\obj\Debug\Vidly.Migrations.addBrthDay.resources
+F:\desktob 25-2-2020\work\dotNetCore\backup\Vidly\Vidly\obj\Debug\Vidly.Migrations.InitialModel1.resources
+F:\desktob 25-2-2020\work\dotNetCore\backup\Vidly\Vidly\obj\Debug\Vidly.Migrations.addTypeMovie.resources
+F:\desktob 25-2-2020\work\dotNetCore\backup\Vidly\Vidly\obj\Debug\Vidly.Migrations.romove.resources
+F:\desktob 25-2-2020\work\dotNetCore\backup\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddReqiredName.resources
+F:\desktob 25-2-2020\work\dotNetCore\backup\Vidly\Vidly\obj\Debug\Vidly.Migrations.Brithe.resources
+F:\desktob 25-2-2020\work\dotNetCore\backup\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddingdrivingLincestoApplcationUser.resources
+F:\desktob 25-2-2020\work\dotNetCore\backup\Vidly\Vidly\obj\Debug\Vidly.Migrations.addRantel.resources
+F:\desktob 25-2-2020\work\dotNetCore\backup\Vidly\Vidly\obj\Debug\Vidly.Migrations.addAvailble.resources
+F:\desktob 25-2-2020\work\dotNetCore\backup\Vidly\Vidly\obj\Debug\Vidly.csproj.GenerateResource.cache
+F:\desktob 25-2-2020\work\dotNetCore\backup\Vidly\Vidly\obj\Debug\Vidly.csproj.CoreCompileInputs.cache
+F:\desktob 25-2-2020\work\dotNetCore\backup\Vidly\Vidly\obj\Debug\Vidly.csproj.CopyComplete
+F:\desktob 25-2-2020\work\dotNetCore\backup\Vidly\Vidly\obj\Debug\Vidly.dll
+F:\desktob 25-2-2020\work\dotNetCore\backup\Vidly\Vidly\obj\Debug\Vidly.pdb
